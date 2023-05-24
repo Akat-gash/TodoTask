@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#taskList {
+    margin-top: 20px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+input[type="text"] {
+    width: 200px;
+}
+
+button {
+    margin-left: 10px;
+}
